@@ -1,0 +1,20 @@
+header{
+    text-align: center ;
+    background-color: aliceblue;
+}
+nav{
+    text-align:left;
+    background-color: antiquewhite;
+
+}
+body{
+    text-align: center;
+    background-color: aliceblue;
+    padding:15px;
+}
+footer{
+ text-align: center;
+ background-color: aliceblue;
+ padding:15px;
+ 
+}
